@@ -7,9 +7,9 @@ import MainLink from './MainLink.vue';
 <template>
     <Transition name="slide" appear>
     <nav class="flex flex-wrap gap-4 justify-center items-center my-6">
-      <MainLink href="#" name="Home" />
-      <MainLink href="#" name="Portfolio" />
-      <MainLink href="#" name="Contact" />
+      <MainLink href="#home" name="Home" />
+      <MainLink href="#portfolio" name="Portfolio" />
+      <MainLink href="#contact" name="Contact" />
     </nav>
 </Transition>
 </template>
