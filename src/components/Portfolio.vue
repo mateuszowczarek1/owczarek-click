@@ -41,7 +41,7 @@
                 <h2 class="font-semibold text-xl">AppLauncher</h2>
                 <h3 class="text-md uppercase border-t border-gray-400">electron.js | electron-forge | preact </h3>
                 <p>
-                    Electron.js fueled Windows desktop App that allowed my co-workers to quickly launch company's ASP.NET programs from the task bar. It also serves two static websites designed for better work organization.</p>
+                    Electron.js fueled Windows desktop launcher that allowed my co-workers to quickly launch company's ASP.NET apps conveniently from their task bar. It also serves two static websites designed for better work organization.</p>
                 <p class="mt-4 underline underline-offset-8 text-slate-700">
                     <a href="https://github.com/mateuszowczarek1/applauncher" target="_blank">GitHub Repository</a>
                 </p>
@@ -54,7 +54,7 @@
             <div class="md:min-w-[40%]">
                 <h2 class="font-semibold text-xl">owczarek.click</h2>
                 <h3 class="text-md uppercase border-t border-gray-400">vue | vite | typescript</h3>
-                <p> Personal page created in Vue.js 3. This is the page that you are currently visiting.</p>
+                <p> Personal static page created in Vue.js 3. This is the website that you are currently visiting.</p>
                 <p class="mt-4 underline underline-offset-8 text-slate-700">
                     <a href="https://github.com/mateuszowczarek1/owczarek-click" target="_blank">GitHub Repository</a>
                 </p>
@@ -67,7 +67,7 @@
             <div class="md:min-w-[40%]">
                 <h2 class="font-semibold text-xl">ISSUU And Calameo Extractor</h2>
                 <h3 class="text-md uppercase border-t border-gray-400">php | docker | bootstrap | tcpdf | imagemagick</h3>
-                <p>This app allows user to download pages of free magazines published on ISSUU and Calameo. It uses Imagemagick to manipulate the files. Gives the user a zip package containing jpg images and a magazine PDF file.</p>
+                <p>This app allows users to download pages of free magazines published on ISSUU and Calameo. It uses Imagemagick to manipulate the files. Gives the user a zip package containing jpg images and a magazine PDF file.</p>
                 <p class="mt-4 underline underline-offset-8 text-slate-700">
                     <a href="https://github.com/mateuszowczarek1/issuuextractor" target="_blank">GitHub Repository</a>
                 </p>
@@ -81,8 +81,7 @@
                 <h2 class="font-semibold text-xl">Home Office Mail Generator</h2>
                 <h3 class="text-md uppercase border-t border-gray-400">js | bootstrap | sw </h3>
                 <p>
-                    Simple app for generating e-mail body and subject and then passing it on to default mailto:
-                    protocole app.</p>
+                    Simple static website designed for generating e-mail's body and subject. Message is then passed on to the default <i>mailto:</i> application.</p>
                 <p class="mt-4 underline underline-offset-8 text-slate-700">
                     <a href="https://github.com/mateuszowczarek1/mailgenerator" target="_blank">GitHub Repository</a>
                 </p>
