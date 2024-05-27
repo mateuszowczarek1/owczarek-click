@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#CV
+
+public/cv_eng_2024.pdf
+public/cv_pl_2024.pdf
