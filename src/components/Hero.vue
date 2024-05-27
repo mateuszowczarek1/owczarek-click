@@ -1,7 +1,5 @@
 <script setup lang="ts">
 import TheHelloHeader from './TheHelloHeader.vue';
-
-
 </script>
 <template>
     <div class="px-10 py-10">
@@ -13,7 +11,7 @@ import TheHelloHeader from './TheHelloHeader.vue';
             </div>
           <div>
             <h2 class="text-2xl mb-2 font-bold">Technologies</h2>
-            <h3 class="text-xl">Currently learning</h3>
+            <h3 class="text-xl">Working on</h3>
             <div class="flex flex-wrap mt-4 text-4xl gap-2">
                 <i class="fa-brands fa-php"></i>
                 <i class="fa-brands fa-js"></i>
