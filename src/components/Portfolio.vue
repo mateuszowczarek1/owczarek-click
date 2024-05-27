@@ -41,9 +41,7 @@
                 <h2 class="font-semibold text-xl">AppLauncher</h2>
                 <h3 class="text-md uppercase border-t border-gray-400">electron.js | electron-forge | preact </h3>
                 <p>
-                    Roomoney is a user-friendly app that enables you to create and manage virtual households. Once
-                    you've established a household, you can invite fellow resident to join. This way, you can easily
-                    keep track of all household purchases and expenditures. </p>
+                    Electron.js fueled Windows desktop App that allowed my co-workers to quickly launch company's ASP.NET programs from the task bar. It also serves two static websites designed for better work organization.</p>
                 <p class="mt-4 underline underline-offset-8 text-slate-700">
                     <a href="https://github.com/mateuszowczarek1/applauncher" target="_blank">GitHub Repository</a>
                 </p>
