@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import UAParser from "ua-parser-js"
 import Particles from './components/Particles.vue';
 import TheNavBar from './components/TheNavBar.vue';
 import Hero from './components/Hero.vue';
@@ -10,8 +11,8 @@ import Skills from './components/Skills.vue';
 import Contact from './components/Contact.vue';
 import OperaEasterEgg from './components/OperaEasterEgg.vue';
 
-let isOpera = navigator.userAgent.indexOf("OP") > -1;
-
+const parser = new UAParser();
+const isOpera = parser.getBrowser().name === "Opera" ? true : false;
 </script>
 
 <template>
@@ -23,11 +24,11 @@ let isOpera = navigator.userAgent.indexOf("OP") > -1;
       <Hero />
     </div>
 
-   <AboutMe />
-   <ResumeSection />
-   <Portfolio />
-   <Skills />
-   <Contact />
-   <OperaEasterEgg v-if="isOpera" />
+    <AboutMe />
+    <ResumeSection />
+    <Portfolio />
+    <Skills />
+    <Contact />
+    <OperaEasterEgg v-if="isOpera" />
   </main>
 </template>
