@@ -5,8 +5,8 @@ import Tag from './Tag.vue';
 </script>
 <template>
     <div id="technologies" class="bg-slate-300/40 rounded-xl">
-        <h2 class="my-8 text-2xl px-4 font-semibold">Technologies | Skills</h2>
-        <p class="px-4 text-lg">Technologies I use most often (and/or learning at the moment):</p>
+        <h2 class="my-8 text-2xl px-4 font-semibold">Skills</h2>
+        <p class="px-4 text-lg">What I use most often (and/or learning at the moment):</p>
         <div class="flex flex-wrap my-4 xl:justify-start border-b border-b-slate-500 xl:w-[40%] justify-center">
         <Tag>PHP 8.0+</Tag>
         <Tag>JavaScript</Tag>
@@ -22,7 +22,7 @@ import Tag from './Tag.vue';
         <Tag>MongoDB</Tag>
         <Tag>zod</Tag>
     </div>
-        <p class="px-4 text-lg">I have a very basic understanding (tried to make something work with it) of:</p>
+        <p class="px-4 text-lg">I have a very basic understanding (tried to make something work with it and succeeded) of:</p>
         <div class="flex flex-wrap my-4 xl:justify-start xl:w-[40%] justify-center">
         <Tag>Deno</Tag>
         <Tag>Deno Fresh</Tag>
