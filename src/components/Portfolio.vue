@@ -6,7 +6,7 @@
                 <img src="/homepage.jpg" alt="Homepage Screenshot" class="rounded-md md:max-w-[10vw] blur-sm hover:blur-none transition-all duration-300">
             </div>
             <div class="md:min-w-[40%]">
-                <h2 class="font-semibold text-xl">Homepage</h2>
+                <h2 class="font-semibold text-xl">Bookmarkr</h2>
                 <h3 class="text-md uppercase border-t border-gray-400">laravel | inertia.js (vue) | mysql</h3>
                 <p>
                     Easily manage bookmarks, create, edit, and delete entries. Share your curated catalog with others
