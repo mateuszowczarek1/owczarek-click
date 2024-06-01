@@ -12,7 +12,7 @@ import TheHelloHeader from './TheHelloHeader.vue';
             and bring innovative apps to life.</span>
         </div>
         <div>
-          <h2 class="text-2xl mb-2 font-bold">Technologies</h2>
+          <h2 class="text-2xl mb-2 font-bold">Stack</h2>
           <h3 class="text-xl">Working on</h3>
           <div class="flex flex-wrap mt-4 text-4xl gap-2">
             <i class="devicon-php-plain"></i>            
