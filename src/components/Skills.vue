@@ -21,6 +21,7 @@ import Tag from './Tag.vue';
         <Tag>SQL - (MySQL)</Tag>
         <Tag>MongoDB</Tag>
         <Tag>zod</Tag>
+        <Tag>ChatGPT / AI Assisted Coding</Tag>
     </div>
         <p class="px-4 text-lg">I have a very basic understanding (tried to make something work with it and succeeded) of:</p>
         <div class="flex flex-wrap my-4 xl:justify-start xl:w-[40%] justify-center">
